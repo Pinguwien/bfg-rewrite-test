@@ -1,0 +1,2 @@
+# bfg-rewrite-test
+Test
